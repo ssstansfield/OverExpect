@@ -1,0 +1,22 @@
+# Large local datasets and generated tabular outputs
+*.csv
+
+# This notebook contains more than GitHub's 100 MB per-file limit.
+/XTdata换源/growth_period.ipynb
+
+# Python and Jupyter generated files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environments and credentials
+.venv/
+venv/
+.env
+.env.*
+
+# Editor and OS metadata
+.DS_Store
+.idea/
+.vscode/
+

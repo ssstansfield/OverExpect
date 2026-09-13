@@ -1,0 +1,710 @@
+IndexError: 603719, 2020-04-30 00:00:00, 2020-02-05 00:00:00
+Error: 603719, 2020-04-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688313, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 688313, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832278, 2021-11-04 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603170, 2022-08-28 00:00:00, 2022-06-06 00:00:00
+Error: 603170, 2022-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300783, 2019-09-02 00:00:00, 2019-06-10 00:00:00
+Error: 300783, 2019-09-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 002959, 2019-10-30 00:00:00, 2019-07-30 00:00:00
+Error: 002959, 2019-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688396, 2020-04-23 00:00:00, 2020-01-21 00:00:00
+Error: 688396, 2020-04-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688526, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 688526, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-16 00:00:00, 2021-01-14 00:00:00
+Error: 688696, 2021-04-16 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835185, 2022-04-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688120, 2022-07-23 00:00:00, 2022-04-25 00:00:00
+Error: 688120, 2022-07-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301269, 2022-10-25 00:00:00, 2022-07-25 00:00:00
+Error: 301269, 2022-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 839273, 2023-05-05 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 301332, 2023-07-12 00:00:00, 2023-04-12 00:00:00
+Error: 301332, 2023-07-12 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688472, 2023-08-25 00:00:00, 2023-05-31 00:00:00
+Error: 688472, 2023-08-25 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-08-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 832982, 2023-08-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 832982, 2023-10-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300766, 2019-04-26 00:00:00, 2019-01-24 00:00:00
+Error: 300766, 2019-04-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300782, 2019-07-15 00:00:00, 2019-04-16 00:00:00
+Error: 300782, 2019-07-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688050, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 688050, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605111, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 605111, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-15 00:00:00, 2021-01-13 00:00:00
+Error: 688696, 2021-04-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-29 00:00:00, 2021-01-27 00:00:00
+Error: 300957, 2021-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688793, 2021-08-20 00:00:00, 2021-05-27 00:00:00
+Error: 688793, 2021-08-20 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301071, 2021-10-26 00:00:00, 2021-07-23 00:00:00
+Error: 301071, 2021-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688234, 2022-04-05 00:00:00, 2021-12-31 00:00:00
+Error: 688234, 2022-04-05 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301498, 2023-10-25 00:00:00, 2023-07-25 00:00:00
+Error: 301498, 2023-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 601865, 2019-03-22 00:00:00, 2018-12-19 00:00:00
+Error: 601865, 2019-03-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 002959, 2019-10-30 00:00:00, 2019-07-30 00:00:00
+Error: 002959, 2019-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300815, 2020-04-08 00:00:00, 2020-01-06 00:00:00
+Error: 300815, 2020-04-08 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-22 00:00:00, 2021-01-20 00:00:00
+Error: 300957, 2021-04-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600905, 2021-08-28 00:00:00, 2021-06-03 00:00:00
+Error: 600905, 2021-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603170, 2022-09-20 00:00:00, 2022-06-27 00:00:00
+Error: 603170, 2022-09-20 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688041, 2022-11-07 00:00:00, 2022-08-05 00:00:00
+Error: 688041, 2022-11-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300792, 2019-10-27 00:00:00, 2019-07-26 00:00:00
+Error: 300792, 2019-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-10-14 00:00:00, 2020-07-14 00:00:00
+Error: 300888, 2020-10-14 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300896, 2020-10-27 00:00:00, 2020-07-27 00:00:00
+Error: 300896, 2020-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688013, 2020-11-06 00:00:00, 2020-08-06 00:00:00
+Error: 688013, 2020-11-06 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688621, 2021-08-20 00:00:00, 2021-05-27 00:00:00
+Error: 688621, 2021-08-20 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688110, 2022-03-11 00:00:00, 2021-12-09 00:00:00
+Error: 688110, 2022-03-11 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688295, 2022-04-30 00:00:00, 2022-01-26 00:00:00
+Error: 688295, 2022-04-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301498, 2023-10-25 00:00:00, 2023-07-25 00:00:00
+Error: 301498, 2023-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-08-15 00:00:00, 2022-05-20 00:00:00
+Error: 688120, 2022-08-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301269, 2022-08-24 00:00:00, 2022-05-31 00:00:00
+Error: 301269, 2022-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688375, 2022-08-30 00:00:00, 2022-06-07 00:00:00
+Error: 688375, 2022-08-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688375, 2022-09-05 00:00:00, 2022-06-13 00:00:00
+Error: 688375, 2022-09-05 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603983, 2019-09-01 00:00:00, 2019-06-10 00:00:00
+Error: 603983, 2019-09-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300979, 2021-07-12 00:00:00, 2021-04-13 00:00:00
+Error: 300979, 2021-07-12 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688499, 2021-08-26 00:00:00, 2021-06-02 00:00:00
+Error: 688499, 2021-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600938, 2022-07-14 00:00:00, 2022-04-15 00:00:00
+Error: 600938, 2022-07-14 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 001311, 2023-04-30 00:00:00, 2023-02-02 00:00:00
+Error: 001311, 2023-04-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301498, 2023-10-25 00:00:00, 2023-07-25 00:00:00
+Error: 301498, 2023-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688661, 2021-04-29 00:00:00, 2021-01-27 00:00:00
+Error: 688661, 2021-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688690, 2021-08-24 00:00:00, 2021-05-31 00:00:00
+Error: 688690, 2021-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 834033, 2023-03-17 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688015, 2019-08-26 00:00:00, 2019-05-31 00:00:00
+Error: 688015, 2019-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688050, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 688050, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-28 00:00:00, 2021-01-26 00:00:00
+Error: 300957, 2021-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605098, 2021-06-20 00:00:00, 2021-03-22 00:00:00
+Error: 605098, 2021-06-20 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 601728, 2021-10-22 00:00:00, 2021-07-21 00:00:00
+Error: 601728, 2021-10-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600941, 2022-03-27 00:00:00, 2021-12-24 00:00:00
+Error: 600941, 2022-03-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688375, 2022-09-02 00:00:00, 2022-06-10 00:00:00
+Error: 688375, 2022-09-02 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833509, 2023-02-24 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 831195, 2023-11-01 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300841, 2020-08-10 00:00:00, 2020-05-14 00:00:00
+Error: 300841, 2020-08-10 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-10-13 00:00:00, 2020-07-13 00:00:00
+Error: 300888, 2020-10-13 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301071, 2021-12-14 00:00:00, 2021-09-10 00:00:00
+Error: 301071, 2021-12-14 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688349, 2022-09-06 00:00:00, 2022-06-14 00:00:00
+Error: 688349, 2022-09-06 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603193, 2023-12-05 00:00:00, 2023-09-04 00:00:00
+Error: 603193, 2023-12-05 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688499, 2021-08-27 00:00:00, 2021-06-03 00:00:00
+Error: 688499, 2021-08-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688187, 2021-11-01 00:00:00, 2021-07-29 00:00:00
+Error: 688187, 2021-11-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688348, 2022-08-25 00:00:00, 2022-06-01 00:00:00
+Error: 688348, 2022-08-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603237, 2022-10-30 00:00:00, 2022-07-29 00:00:00
+Error: 603237, 2022-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603057, 2022-11-01 00:00:00, 2022-08-01 00:00:00
+Error: 603057, 2022-11-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688200, 2020-04-26 00:00:00, 2020-01-23 00:00:00
+Error: 688200, 2020-04-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688050, 2020-08-26 00:00:00, 2020-06-01 00:00:00
+Error: 688050, 2020-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605499, 2021-07-29 00:00:00, 2021-04-30 00:00:00
+Error: 605499, 2021-07-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688052, 2022-07-13 00:00:00, 2022-04-14 00:00:00
+Error: 688052, 2022-07-13 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600938, 2022-07-14 00:00:00, 2022-04-15 00:00:00
+Error: 600938, 2022-07-14 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833533, 2023-08-31 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 601865, 2019-04-21 00:00:00, 2019-01-18 00:00:00
+Error: 601865, 2019-04-21 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688981, 2020-09-02 00:00:00, 2020-06-08 00:00:00
+Error: 688981, 2020-09-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688536, 2020-11-24 00:00:00, 2020-08-24 00:00:00
+Error: 688536, 2020-11-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600938, 2022-04-28 00:00:00, 2022-01-25 00:00:00
+Error: 600938, 2022-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 601816, 2020-02-25 00:00:00, 2019-11-22 00:00:00
+Error: 601816, 2020-02-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301221, 2022-02-07 00:00:00, 2021-11-05 00:00:00
+Error: 301221, 2022-02-07 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835368, 2022-08-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603195, 2020-03-12 00:00:00, 2019-12-10 00:00:00
+Error: 603195, 2020-03-12 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-16 00:00:00, 2021-01-14 00:00:00
+Error: 688696, 2021-04-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301071, 2021-12-10 00:00:00, 2021-09-08 00:00:00
+Error: 301071, 2021-12-10 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688223, 2022-03-20 00:00:00, 2021-12-17 00:00:00
+Error: 688223, 2022-03-20 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688295, 2022-04-28 00:00:00, 2022-01-25 00:00:00
+Error: 688295, 2022-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688114, 2022-10-19 00:00:00, 2022-07-19 00:00:00
+Error: 688114, 2022-10-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688489, 2023-02-24 00:00:00, 2022-11-24 00:00:00
+Error: 688489, 2023-02-24 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 834033, 2023-07-21 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 834599, 2023-08-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300759, 2019-04-19 00:00:00, 2019-01-17 00:00:00
+Error: 300759, 2019-04-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300824, 2020-08-18 00:00:00, 2020-05-22 00:00:00
+Error: 300824, 2020-08-18 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688083, 2021-05-01 00:00:00, 2021-01-28 00:00:00
+Error: 688083, 2021-05-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 601865, 2019-03-22 00:00:00, 2018-12-19 00:00:00
+Error: 601865, 2019-03-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-11-30 00:00:00, 2020-08-28 00:00:00
+Error: 300888, 2020-11-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301029, 2021-08-19 00:00:00, 2021-05-26 00:00:00
+Error: 301029, 2021-08-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688385, 2021-10-26 00:00:00, 2021-07-23 00:00:00
+Error: 688385, 2021-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688348, 2022-06-22 00:00:00, 2022-03-22 00:00:00
+Error: 688348, 2022-06-22 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 002993, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 002993, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 003006, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 003006, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688711, 2021-10-30 00:00:00, 2021-07-28 00:00:00
+Error: 688711, 2021-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688223, 2022-04-23 00:00:00, 2022-01-19 00:00:00
+Error: 688223, 2022-04-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300782, 2019-08-29 00:00:00, 2019-06-05 00:00:00
+Error: 300782, 2019-08-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603290, 2020-04-08 00:00:00, 2020-01-06 00:00:00
+Error: 603290, 2020-04-08 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300866, 2020-10-30 00:00:00, 2020-07-30 00:00:00
+Error: 300866, 2020-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-16 00:00:00, 2021-01-14 00:00:00
+Error: 688696, 2021-04-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-05-08 00:00:00, 2021-02-01 00:00:00
+Error: 300957, 2021-05-08 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688131, 2021-08-26 00:00:00, 2021-06-02 00:00:00
+Error: 688131, 2021-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600941, 2022-03-29 00:00:00, 2021-12-27 00:00:00
+Error: 600941, 2022-03-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603170, 2022-08-27 00:00:00, 2022-06-02 00:00:00
+Error: 603170, 2022-08-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 001269, 2022-10-31 00:00:00, 2022-07-29 00:00:00
+Error: 001269, 2022-10-31 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300896, 2020-10-27 00:00:00, 2020-07-27 00:00:00
+Error: 300896, 2020-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605009, 2020-10-26 00:00:00, 2020-07-24 00:00:00
+Error: 605009, 2020-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688083, 2021-04-19 00:00:00, 2021-01-15 00:00:00
+Error: 688083, 2021-04-19 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 600068, 2021-07-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 001215, 2021-10-27 00:00:00, 2021-07-26 00:00:00
+Error: 001215, 2021-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688223, 2022-04-24 00:00:00, 2022-01-20 00:00:00
+Error: 688223, 2022-04-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301195, 2022-10-18 00:00:00, 2022-07-18 00:00:00
+Error: 301195, 2022-10-18 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688502, 2023-04-25 00:00:00, 2023-01-30 00:00:00
+Error: 688502, 2023-04-25 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 836270, 2023-11-04 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300888, 2020-11-29 00:00:00, 2020-08-28 00:00:00
+Error: 300888, 2020-11-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-16 00:00:00, 2021-01-14 00:00:00
+Error: 688696, 2021-04-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-29 00:00:00, 2021-01-27 00:00:00
+Error: 300957, 2021-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 834033, 2023-07-20 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 000418, 2019-04-01 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300792, 2019-10-28 00:00:00, 2019-07-26 00:00:00
+Error: 300792, 2019-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688981, 2020-08-08 00:00:00, 2020-05-13 00:00:00
+Error: 688981, 2020-08-08 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688536, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 688536, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300866, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 300866, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-14 00:00:00, 2021-01-12 00:00:00
+Error: 688696, 2021-04-14 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-05-01 00:00:00, 2021-01-28 00:00:00
+Error: 300957, 2021-05-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301071, 2021-10-25 00:00:00, 2021-07-22 00:00:00
+Error: 301071, 2021-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688110, 2022-02-27 00:00:00, 2021-11-26 00:00:00
+Error: 688110, 2022-02-27 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 838402, 2023-01-31 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688095, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 688095, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600916, 2021-04-21 00:00:00, 2021-01-19 00:00:00
+Error: 600916, 2021-04-21 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688766, 2021-10-30 00:00:00, 2021-07-28 00:00:00
+Error: 688766, 2021-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 872808, 2023-04-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688396, 2020-04-22 00:00:00, 2020-01-20 00:00:00
+Error: 688396, 2020-04-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688396, 2020-04-23 00:00:00, 2020-01-21 00:00:00
+Error: 688396, 2020-04-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603719, 2020-04-28 00:00:00, 2020-02-03 00:00:00
+Error: 603719, 2020-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300840, 2020-09-01 00:00:00, 2020-06-05 00:00:00
+Error: 300840, 2020-09-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300896, 2020-10-27 00:00:00, 2020-07-27 00:00:00
+Error: 300896, 2020-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-29 00:00:00, 2021-01-27 00:00:00
+Error: 300957, 2021-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 001215, 2021-10-27 00:00:00, 2021-07-26 00:00:00
+Error: 001215, 2021-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301095, 2022-09-26 00:00:00, 2022-07-01 00:00:00
+Error: 301095, 2022-09-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688409, 2022-10-28 00:00:00, 2022-07-28 00:00:00
+Error: 688409, 2022-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-08-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 000418, 2019-04-29 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300896, 2020-11-15 00:00:00, 2020-08-14 00:00:00
+Error: 300896, 2020-11-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-07 00:00:00, 2021-01-05 00:00:00
+Error: 688696, 2021-04-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-29 00:00:00, 2021-01-27 00:00:00
+Error: 300957, 2021-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833819, 2023-03-05 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 301378, 2023-04-26 00:00:00, 2023-01-31 00:00:00
+Error: 301378, 2023-04-26 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833394, 2023-07-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 301469, 2023-10-27 00:00:00, 2023-07-27 00:00:00
+Error: 301469, 2023-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603193, 2023-10-26 00:00:00, 2023-07-26 00:00:00
+Error: 603193, 2023-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688065, 2020-10-27 00:00:00, 2020-07-27 00:00:00
+Error: 688065, 2020-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688526, 2020-11-01 00:00:00, 2020-07-31 00:00:00
+Error: 688526, 2020-11-01 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832885, 2021-11-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 301327, 2022-10-27 00:00:00, 2022-07-27 00:00:00
+Error: 301327, 2022-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688293, 2022-11-02 00:00:00, 2022-08-02 00:00:00
+Error: 688293, 2022-11-02 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 430476, 2023-11-01 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603290, 2020-04-07 00:00:00, 2020-01-03 00:00:00
+Error: 603290, 2020-04-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688981, 2020-08-07 00:00:00, 2020-05-13 00:00:00
+Error: 688981, 2020-08-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-10-15 00:00:00, 2020-07-15 00:00:00
+Error: 300888, 2020-10-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688608, 2021-03-01 00:00:00, 2020-11-27 00:00:00
+Error: 688608, 2021-03-01 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 871642, 2023-02-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 833533, 2023-04-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688696, 2021-04-22 00:00:00, 2021-01-20 00:00:00
+Error: 688696, 2021-04-22 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835368, 2021-12-14 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688120, 2022-08-16 00:00:00, 2022-05-23 00:00:00
+Error: 688120, 2022-08-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-08-16 00:00:00, 2022-05-23 00:00:00
+Error: 688120, 2022-08-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301383, 2023-08-24 00:00:00, 2023-05-30 00:00:00
+Error: 301383, 2023-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 000043, 2019-10-31 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 002985, 2020-07-07 00:00:00, 2020-04-07 00:00:00
+Error: 002985, 2020-07-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300999, 2020-11-02 00:00:00, 2020-07-31 00:00:00
+Error: 300999, 2020-11-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688131, 2021-08-27 00:00:00, 2021-06-03 00:00:00
+Error: 688131, 2021-08-27 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 834033, 2023-03-22 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 001337, 2023-04-17 00:00:00, 2023-01-13 00:00:00
+Error: 001337, 2023-04-17 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 430047, 2023-05-01 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 301376, 2023-08-28 00:00:00, 2023-06-01 00:00:00
+Error: 301376, 2023-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688157, 2020-08-06 00:00:00, 2020-05-12 00:00:00
+Error: 688157, 2020-08-06 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-07 00:00:00, 2021-01-05 00:00:00
+Error: 688696, 2021-04-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688087, 2021-08-22 00:00:00, 2021-05-28 00:00:00
+Error: 688087, 2021-08-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 001215, 2021-11-02 00:00:00, 2021-07-30 00:00:00
+Error: 001215, 2021-11-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 001289, 2022-04-10 00:00:00, 2022-01-06 00:00:00
+Error: 001289, 2022-04-10 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301307, 2023-07-19 00:00:00, 2023-04-19 00:00:00
+Error: 301307, 2023-07-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688472, 2023-08-25 00:00:00, 2023-05-31 00:00:00
+Error: 688472, 2023-08-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-10-14 00:00:00, 2020-07-14 00:00:00
+Error: 300888, 2020-10-14 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605499, 2021-07-29 00:00:00, 2021-04-30 00:00:00
+Error: 605499, 2021-07-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688269, 2021-08-16 00:00:00, 2021-05-21 00:00:00
+Error: 688269, 2021-08-16 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 430335, 2021-08-20 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 001215, 2021-10-26 00:00:00, 2021-07-23 00:00:00
+Error: 001215, 2021-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688265, 2022-02-27 00:00:00, 2021-11-26 00:00:00
+Error: 688265, 2022-02-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688147, 2023-01-30 00:00:00, 2022-10-28 00:00:00
+Error: 688147, 2023-01-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603296, 2023-10-30 00:00:00, 2023-07-28 00:00:00
+Error: 603296, 2023-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833533, 2023-10-31 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603983, 2019-08-28 00:00:00, 2019-06-04 00:00:00
+Error: 603983, 2019-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688169, 2020-03-02 00:00:00, 2019-11-28 00:00:00
+Error: 688169, 2020-03-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603719, 2020-04-28 00:00:00, 2020-02-03 00:00:00
+Error: 603719, 2020-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688269, 2021-08-15 00:00:00, 2021-05-21 00:00:00
+Error: 688269, 2021-08-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-07-24 00:00:00, 2022-04-26 00:00:00
+Error: 688120, 2022-07-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688047, 2022-09-01 00:00:00, 2022-06-09 00:00:00
+Error: 688047, 2022-09-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301278, 2022-10-28 00:00:00, 2022-07-28 00:00:00IndexError: 301327, 2022-10-29 00:00:00, 2022-07-28 00:00:00
+Error: 301327, 2022-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+
+Error: 301278, 2022-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300782, 2019-07-14 00:00:00, 2019-04-16 00:00:00
+Error: 300782, 2019-07-14 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 430335, 2021-02-20 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: A20333, 2021-03-07 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688696, 2021-04-16 00:00:00, 2021-01-14 00:00:00
+Error: 688696, 2021-04-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300994, 2021-10-27 00:00:00, 2021-07-26 00:00:00
+Error: 300994, 2021-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836077, 2022-04-19 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 835368, 2022-04-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688267, 2022-04-28 00:00:00, 2022-01-25 00:00:00
+Error: 688267, 2022-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836077, 2022-08-16 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 601059, 2023-03-21 00:00:00, 2022-12-19 00:00:00
+Error: 601059, 2023-03-21 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836077, 2023-04-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300782, 2019-07-13 00:00:00, 2019-04-15 00:00:00
+Error: 300782, 2019-07-13 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300815, 2020-04-08 00:00:00, 2020-01-06 00:00:00
+Error: 300815, 2020-04-08 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688536, 2020-11-24 00:00:00, 2020-08-24 00:00:00
+Error: 688536, 2020-11-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300866, 2020-11-03 00:00:00, 2020-08-03 00:00:00
+Error: 300866, 2020-11-03 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688499, 2021-08-26 00:00:00, 2021-06-02 00:00:00
+Error: 688499, 2021-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301078, 2021-11-12 00:00:00, 2021-08-11 00:00:00
+Error: 301078, 2021-11-12 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688167, 2022-02-27 00:00:00, 2021-11-26 00:00:00
+Error: 688167, 2022-02-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-08-15 00:00:00, 2022-05-20 00:00:00
+Error: 688120, 2022-08-15 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301269, 2022-08-24 00:00:00, 2022-05-31 00:00:00
+Error: 301269, 2022-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688293, 2022-10-27 00:00:00, 2022-07-27 00:00:00
+Error: 688293, 2022-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301376, 2023-08-28 00:00:00, 2023-06-01 00:00:00
+Error: 301376, 2023-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688680, 2021-02-26 00:00:00, 2020-11-26 00:00:00
+Error: 688680, 2021-02-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688700, 2021-08-09 00:00:00, 2021-05-14 00:00:00
+Error: 688700, 2021-08-09 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688223, 2022-04-24 00:00:00, 2022-01-20 00:00:00
+Error: 688223, 2022-04-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688114, 2022-10-22 00:00:00, 2022-07-21 00:00:00
+Error: 688114, 2022-10-22 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300759, 2019-04-28 00:00:00, 2019-01-25 00:00:00
+Error: 300759, 2019-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603613, 2019-10-25 00:00:00, 2019-07-25 00:00:00
+Error: 603613, 2019-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 003816, 2019-10-31 00:00:00, 2019-07-31 00:00:00
+Error: 003816, 2019-10-31 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301061, 2021-10-27 00:00:00, 2021-07-26 00:00:00
+Error: 301061, 2021-10-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600941, 2022-03-24 00:00:00, 2021-12-22 00:00:00
+Error: 600941, 2022-03-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-08-20 00:00:00, 2022-05-26 00:00:00
+Error: 688120, 2022-08-20 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833533, 2023-08-24 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300782, 2019-08-30 00:00:00, 2019-06-06 00:00:00
+Error: 300782, 2019-08-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688169, 2020-04-28 00:00:00, 2020-02-03 00:00:00
+Error: 688169, 2020-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603893, 2020-05-06 00:00:00, 2020-02-06 00:00:00
+Error: 603893, 2020-05-06 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300824, 2020-08-18 00:00:00, 2020-05-22 00:00:00
+Error: 300824, 2020-08-18 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 002991, 2020-10-25 00:00:00, 2020-07-24 00:00:00
+Error: 002991, 2020-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300866, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 300866, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600905, 2021-09-01 00:00:00, 2021-06-08 00:00:00
+Error: 600905, 2021-09-01 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836270, 2023-03-03 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 832735, 2023-04-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 830799, 2023-08-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688009, 2019-08-27 00:00:00, 2019-06-03 00:00:00
+Error: 688009, 2019-08-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300815, 2020-03-24 00:00:00, 2019-12-20 00:00:00
+Error: 300815, 2020-03-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688169, 2020-04-29 00:00:00, 2020-02-04 00:00:00
+Error: 688169, 2020-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-11-30 00:00:00, 2020-08-28 00:00:00
+Error: 300888, 2020-11-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688690, 2021-08-23 00:00:00, 2021-05-28 00:00:00
+Error: 688690, 2021-08-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301177, 2022-03-02 00:00:00, 2021-11-30 00:00:00
+Error: 301177, 2022-03-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688223, 2022-04-23 00:00:00, 2022-01-19 00:00:00
+Error: 688223, 2022-04-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688223, 2022-04-27 00:00:00, 2022-01-24 00:00:00
+Error: 688223, 2022-04-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688147, 2023-03-02 00:00:00, 2022-11-30 00:00:00
+Error: 688147, 2023-03-02 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-11-05 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 831248, 2019-04-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300783, 2019-08-31 00:00:00, 2019-06-06 00:00:00
+Error: 300783, 2019-08-31 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-06-16 00:00:00, 2021-03-17 00:00:00
+Error: 300957, 2021-06-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688303, 2021-08-23 00:00:00, 2021-05-28 00:00:00
+Error: 688303, 2021-08-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301099, 2022-01-10 00:00:00, 2021-10-15 00:00:00
+Error: 301099, 2022-01-10 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 871642, 2022-03-01 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 835185, 2022-09-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 832982, 2023-10-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 873593, 2023-11-15 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688686, 2021-02-28 00:00:00, 2020-11-27 00:00:00
+Error: 688686, 2021-02-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301029, 2021-08-19 00:00:00, 2021-05-26 00:00:00
+Error: 301029, 2021-08-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 001289, 2022-04-03 00:00:00, 2021-12-30 00:00:00
+Error: 001289, 2022-04-03 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688261, 2022-05-09 00:00:00, 2022-02-07 00:00:00
+Error: 688261, 2022-05-09 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301269, 2022-10-26 00:00:00, 2022-07-26 00:00:00
+Error: 301269, 2022-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688439, 2022-10-28 00:00:00, 2022-07-28 00:00:00
+Error: 688439, 2022-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835185, 2023-02-10 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603195, 2020-04-28 00:00:00, 2020-02-03 00:00:00
+Error: 603195, 2020-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688109, 2021-06-10 00:00:00, 2021-03-12 00:00:00
+Error: 688109, 2021-06-10 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301099, 2022-02-07 00:00:00, 2021-11-05 00:00:00
+Error: 301099, 2022-02-07 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301200, 2022-03-31 00:00:00, 2021-12-29 00:00:00
+Error: 301200, 2022-03-31 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688439, 2022-10-31 00:00:00, 2022-07-29 00:00:00
+Error: 688439, 2022-10-31 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 833533, 2023-06-15 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 832982, 2023-10-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688719, 2023-10-29 00:00:00, 2023-07-28 00:00:00
+Error: 688719, 2023-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300783, 2019-08-30 00:00:00, 2019-06-06 00:00:00
+Error: 300783, 2019-08-30 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 000043, 2019-11-11 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688319, 2021-08-24 00:00:00, 2021-05-31 00:00:00
+Error: 688319, 2021-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836077, 2021-12-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 001215, 2021-12-03 00:00:00, 2021-09-01 00:00:00
+Error: 001215, 2021-12-03 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603057, 2022-11-03 00:00:00, 2022-08-03 00:00:00
+Error: 603057, 2022-11-03 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688515, 2023-04-29 00:00:00, 2023-02-02 00:00:00
+Error: 688515, 2023-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300782, 2019-07-14 00:00:00, 2019-04-16 00:00:00
+Error: 300782, 2019-07-14 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688088, 2019-08-28 00:00:00, 2019-06-04 00:00:00
+Error: 688088, 2019-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 002959, 2019-10-30 00:00:00, 2019-07-30 00:00:00
+Error: 002959, 2019-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300792, 2019-11-04 00:00:00, 2019-08-02 00:00:00
+Error: 300792, 2019-11-04 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688169, 2020-04-30 00:00:00, 2020-02-05 00:00:00
+Error: 688169, 2020-04-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688536, 2020-10-26 00:00:00, 2020-07-24 00:00:00
+Error: 688536, 2020-10-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300920, 2021-03-21 00:00:00, 2020-12-18 00:00:00
+Error: 300920, 2021-03-21 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600938, 2022-04-28 00:00:00, 2022-01-25 00:00:00
+Error: 600938, 2022-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 830938, 2022-05-04 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688231, 2022-08-25 00:00:00, 2022-06-01 00:00:00
+Error: 688231, 2022-08-25 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-26 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300755, 2019-04-09 00:00:00, 2019-01-07 00:00:00
+Error: 300755, 2019-04-09 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688169, 2020-02-28 00:00:00, 2019-11-27 00:00:00
+Error: 688169, 2020-02-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688313, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 688313, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-26 00:00:00, 2021-01-22 00:00:00
+Error: 688696, 2021-04-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688109, 2021-04-26 00:00:00, 2021-01-22 00:00:00
+Error: 688109, 2021-04-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605499, 2021-07-30 00:00:00, 2021-05-06 00:00:00
+Error: 605499, 2021-07-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688690, 2021-08-23 00:00:00, 2021-05-28 00:00:00
+Error: 688690, 2021-08-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301071, 2021-12-09 00:00:00, 2021-09-07 00:00:00
+Error: 301071, 2021-12-09 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300842, 2020-08-26 00:00:00, 2020-06-01 00:00:00
+Error: 300842, 2020-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 002991, 2020-09-03 00:00:00, 2020-06-09 00:00:00
+Error: 002991, 2020-09-03 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 838402, 2022-10-29 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 835185, 2023-09-03 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 832982, 2023-10-27 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603983, 2019-09-17 00:00:00, 2019-06-24 00:00:00
+Error: 603983, 2019-09-17 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 601827, 2020-08-16 00:00:00, 2020-05-21 00:00:00
+Error: 601827, 2020-08-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605111, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 605111, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688526, 2020-12-19 00:00:00, 2020-09-17 00:00:00
+Error: 688526, 2020-12-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300957, 2021-04-29 00:00:00, 2021-01-27 00:00:00
+Error: 300957, 2021-04-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605499, 2021-06-29 00:00:00, 2021-03-30 00:00:00
+Error: 605499, 2021-06-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 605499, 2021-07-29 00:00:00, 2021-04-30 00:00:00
+Error: 605499, 2021-07-29 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835185, 2022-01-12 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 836077, 2022-04-19 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 001323, 2022-08-24 00:00:00, 2022-05-31 00:00:00
+Error: 001323, 2022-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 831152, 2023-02-09 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688475, 2023-02-27 00:00:00, 2022-11-25 00:00:00
+Error: 688475, 2023-02-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603307, 2023-04-17 00:00:00, 2023-01-13 00:00:00
+Error: 603307, 2023-04-17 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835185, 2023-10-31 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688677, 2021-03-29 00:00:00, 2020-12-25 00:00:00
+Error: 688677, 2021-03-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688696, 2021-04-25 00:00:00, 2021-01-22 00:00:00
+Error: 688696, 2021-04-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-07-21 00:00:00, 2022-04-22 00:00:00
+Error: 688120, 2022-07-21 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300792, 2019-10-28 00:00:00, 2019-07-26 00:00:00
+Error: 300792, 2019-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 600905, 2021-08-26 00:00:00, 2021-06-02 00:00:00
+Error: 600905, 2021-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836077, 2022-01-18 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688223, 2022-04-25 00:00:00, 2022-01-20 00:00:00
+Error: 688223, 2022-04-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688348, 2022-08-24 00:00:00, 2022-05-31 00:00:00
+Error: 688348, 2022-08-24 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 603170, 2022-08-27 00:00:00, 2022-06-02 00:00:00
+Error: 603170, 2022-08-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 002967, 2020-01-17 00:00:00, 2019-10-24 00:00:00
+Error: 002967, 2020-01-17 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300855, 2020-08-19 00:00:00, 2020-05-25 00:00:00
+Error: 300855, 2020-08-19 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300896, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 300896, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 430335, 2021-08-21 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 834033, 2023-03-21 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688486, 2023-04-11 00:00:00, 2023-01-09 00:00:00
+Error: 688486, 2023-04-11 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 835179, 2023-04-14 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688484, 2023-04-28 00:00:00, 2023-02-02 00:00:00
+Error: 688484, 2023-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832419, 2023-08-09 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 301376, 2023-09-07 00:00:00, 2023-06-13 00:00:00
+Error: 301376, 2023-09-07 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688003, 2019-09-09 00:00:00, 2019-06-17 00:00:00
+Error: 688003, 2019-09-09 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300994, 2021-10-25 00:00:00, 2021-07-22 00:00:00
+Error: 300994, 2021-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301177, 2022-03-01 00:00:00, 2021-11-29 00:00:00
+Error: 301177, 2022-03-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688392, 2022-11-02 00:00:00, 2022-08-02 00:00:00
+Error: 688392, 2022-11-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301498, 2023-10-25 00:00:00, 2023-07-25 00:00:00
+Error: 301498, 2023-10-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688396, 2020-04-23 00:00:00, 2020-01-21 00:00:00
+Error: 688396, 2020-04-23 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688131, 2021-08-26 00:00:00, 2021-06-02 00:00:00
+Error: 688131, 2021-08-26 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688120, 2022-08-16 00:00:00, 2022-05-23 00:00:00
+Error: 688120, 2022-08-16 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301272, 2023-08-25 00:00:00, 2023-05-31 00:00:00
+Error: 301272, 2023-08-25 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 838402, 2023-11-07 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 000043, 2019-10-30 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603290, 2020-04-08 00:00:00, 2020-01-06 00:00:00
+Error: 603290, 2020-04-08 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688526, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 688526, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-10-30 00:00:00, 2020-07-30 00:00:00
+Error: 300888, 2020-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-11-25 00:00:00, 2020-08-25 00:00:00
+Error: 300888, 2020-11-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688667, 2021-04-28 00:00:00, 2021-01-26 00:00:00
+Error: 688667, 2021-04-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 836077, 2022-02-28 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688147, 2023-02-27 00:00:00, 2022-11-25 00:00:00
+Error: 688147, 2023-02-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 301397, 2023-09-02 00:00:00, 2023-06-07 00:00:00
+Error: 301397, 2023-09-02 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300788, 2019-08-27 00:00:00, 2019-06-03 00:00:00
+Error: 300788, 2019-08-27 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300785, 2019-09-01 00:00:00, 2019-06-10 00:00:00
+Error: 300785, 2019-09-01 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688580, 2020-08-25 00:00:00, 2020-05-29 00:00:00
+Error: 688580, 2020-08-25 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688017, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+IndexError: 300896, 2020-11-01 00:00:00, 2020-07-31 00:00:00
+Error: 300896, 2020-11-01 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 688017, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688385, 2021-10-30 00:00:00, 2021-07-28 00:00:00
+Error: 688385, 2021-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688192, 2022-02-28 00:00:00, 2021-11-26 00:00:00
+Error: 688192, 2022-02-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 831445, 2022-04-20 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 603170, 2022-08-28 00:00:00, 2022-06-06 00:00:00
+Error: 603170, 2022-08-28 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 832982, 2023-10-29 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 688050, 2020-10-28 00:00:00, 2020-07-28 00:00:00
+Error: 688050, 2020-10-28 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-10-29 00:00:00, 2020-07-29 00:00:00
+Error: 300888, 2020-10-29 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 688766, 2021-10-30 00:00:00, 2021-07-28 00:00:00
+Error: 688766, 2021-10-30 00:00:00, local variable 'buy_price' referenced before assignment
+IndexError: 300888, 2020-11-30 00:00:00, 2020-08-28 00:00:00
+Error: 300888, 2020-11-30 00:00:00, local variable 'buy_price' referenced before assignment
+Error: 834033, 2023-08-22 00:00:00, index 0 is out of bounds for axis 0 with size 0
+Error: 830793, 2019-05-05 00:00:00, index 0 is out of bounds for axis 0 with size 0
+IndexError: 300788, 2019-08-28 00:00:00, 2019-06-04 00:00:00
+Error: 300788, 2019-08-28 00:00:00, local variable 'buy_price' referenced before assignment
